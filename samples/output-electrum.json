@@ -1,0 +1,31 @@
+{
+    "wallet_type": "2of3",
+    "x1/": {
+        "cfg": {
+            "mode": 0
+        },
+        "derivation": "m/45'/0'/0'/1",
+        "hw_type": "ledger",
+        "label": "hollywood",
+        "type": "hardware",
+        "xpub": "xpub6FBFAVmiF1pgCYanH9GdbgHbiLkHSUq9c5KkY6c7mEk4o8757p8JsrdXo3zsy3uifqGEsBkp45C4jFYPM1X7k3bgsRmijrjz5edaFsxdodA"
+    },
+    "x2/": {
+        "cfg": {
+            "mode": 0
+        },
+        "derivation": "m/45'/0'/2'/0",
+        "hw_type": "ledger",
+        "label": "crater",
+        "type": "hardware",
+        "xpub": "xpub6EkQHCE3w9F6qyCAZxW5vh87b969wiKUaB6NnYcjcsuLzPeEckNSffjHPFhP2hKM6jeAtRdoRiPGBJ3F72t6n4psx4gvEyhPsRitDo7yKkj"
+    },
+    "x3/": {
+        "derivation": null,
+        "pw_hash_version": 1,
+        "root_fingerprint": null,
+        "type": "bip32",
+        "xprv": null,
+        "xpub": "xpub6EDykLBC5ERX7WREobYaca2ALTFZKLku9RDuPCi2MKf4YbnA4pGF7zVzRqGjrdJK33aeJ2K6qr2qfrz64EikAyEkpbdkmoedFC16smSacJB"
+    }
+}
