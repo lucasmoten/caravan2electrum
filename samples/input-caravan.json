@@ -1,0 +1,27 @@
+{
+    "addressType": "P2SH",
+    "extendedPublicKeys": [
+      {
+        "bip32Path": "m/45'/0'/0'/1",
+        "name": "hollywood",
+        "xpub": "xpub6FBFAVmiF1pgCYanH9GdbgHbiLkHSUq9c5KkY6c7mEk4o8757p8JsrdXo3zsy3uifqGEsBkp45C4jFYPM1X7k3bgsRmijrjz5edaFsxdodA"
+      },
+      {
+        "bip32Path": "m/45'/0'/2'/0",
+        "name": "crater",
+        "xpub": "xpub6EkQHCE3w9F6qyCAZxW5vh87b969wiKUaB6NnYcjcsuLzPeEckNSffjHPFhP2hKM6jeAtRdoRiPGBJ3F72t6n4psx4gvEyhPsRitDo7yKkj"
+      },
+      {
+        "bip32Path": "Unknown",
+        "name": "unchained",
+        "xpub": "xpub6EDykLBC5ERX7WREobYaca2ALTFZKLku9RDuPCi2MKf4YbnA4pGF7zVzRqGjrdJK33aeJ2K6qr2qfrz64EikAyEkpbdkmoedFC16smSacJB"
+      }
+    ],
+    "name": "Sample Vault",
+    "network": "mainnet",
+    "quorum": {
+      "requiredSigners": 2,
+      "totalSigners": 3
+    },
+    "startingAddressIndex": 2
+}
